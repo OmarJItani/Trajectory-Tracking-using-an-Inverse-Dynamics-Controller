@@ -10,7 +10,7 @@ A snake robot is a series of rigid links connected via revolute joints as shown 
 
 
 <div style="text-align: center;">
-  <img src="snake_robot.jpg" alt="snake_robot_figure" width="500"/>
+  <img src="Readme_files/snake_robot.jpg" alt="snake_robot_figure" width="500"/>
   <p style="text-align: center;">Three-link wheeled snake robot</p>
 </div>
 
@@ -21,7 +21,7 @@ The developed controller is validated on a three-link snake robot. The head of t
 #### Simulation:
 
 <div style="text-align: center;">
-  <img src="snake_simulation.gif" alt="snake_motion" width="500" loop="true"/></a>
+  <img src="Readme_files/snake_simulation.gif" alt="snake_motion" width="500" loop="true"/></a>
   <p style="text-align: center;">Three-link snake robot traversing a sinusoidal trajectory</p>
 </div>
 
